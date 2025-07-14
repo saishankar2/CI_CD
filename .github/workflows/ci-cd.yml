@@ -35,5 +35,5 @@ jobs:
 
     - name: Push Docker image
       run: |
-        docker tag house-price-api srisoudamini/house-price-api:latest
-        docker push srisoudamini/house-price-api:latest
+        docker tag house-price-api saishankar3/house-price-api:latest
+        docker push saishankar3/house-price-api:latest
